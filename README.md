@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning Full Stack Web Development @ She Codes Australia and @ Coder Academy<br><br>👨‍💻 All of my projects are available at https://shayzimm.github.io/</p>
+<p align="center">🌱 I’m currently learning Full Stack Development @ She Codes Australia and @ Coder Academy<br><br>👨‍💻 All of my projects are available at https://shayzimm.github.io/</p>
 
 ###
 
